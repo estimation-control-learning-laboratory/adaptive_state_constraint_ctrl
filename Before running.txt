@@ -1,0 +1,3 @@
+Before running:
+
+For running the files ¨MPC_double_integrator_tracking_augmentation_tictoc¨ and ¨MPC_vs_Constraint_lifting¨ the Multi-parametric Toolbox 3 for Matlab must be installed first in Matlab. The installation instructions can be found in http://people.ee.ethz.ch/~mpt/3/
